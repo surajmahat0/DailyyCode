@@ -1,3 +1,5 @@
+In this code i have write a code of find the even and odd numbers from an array and also find the size & their sum:
+
 import java.util.ArrayList;
 
 public class evod {
